@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    background-color: red;
+    color: whitesmoke;
+}
+
+hr{
+    width: 50%;
+    height: 5px;
+    background-color: darkred
+}
+
+p{
+    width: 50%;
+    margin: auto;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    height: 200px;
+}

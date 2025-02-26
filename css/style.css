@@ -1,11 +1,12 @@
 h1{
     text-align: center;
-    background-color: red;
-    color: whitesmoke;
+    color: white;
+    font-size: 70px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 hr{
-    width: 50%;
+    width: 61%;
     height: 5px;
     background-color: darkred
 }
@@ -19,4 +20,15 @@ p{
 
 img{
     height: 200px;
+}
+
+.fotos{
+    width: fit-content;
+    margin: auto;
+}
+
+video{
+    width: 50%;
+    display: block;
+    margin: auto;
 }
